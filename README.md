@@ -4,9 +4,9 @@
 ### Extracts:
 #### Enquirer name
 #### Property reference
-##### Enquiry type
-##### Email address
-##### Phone number
+#### Enquiry type
+#### Email address
+#### Phone number
 ### Classifies enquiries as:
 #### Viewing
 #### Availability
