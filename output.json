@@ -1,0 +1,60 @@
+[
+  {
+    "enquirer_name": "Sarah Whitfield",
+    "property": "24 Maple Court",
+    "enquiry_type": "viewing",
+    "email": "s.whitfield@gmail.com",
+    "phone": "07700 900112",
+    "enquiry_summary": "Interested in arranging a viewing for the 2-bed flat at 24 Maple Court advertised at \u00a31,450 pcm, available Thursday or Friday afternoon.",
+    "flags": [],
+    "requires_manual_review": false,
+    "email_id": 1
+  },
+  {
+    "enquirer_name": null,
+    "property": null,
+    "enquiry_type": "availability",
+    "email": "mikejtt@outlook.com",
+    "phone": null,
+    "enquiry_summary": "Interested in renting and asking if the place is still available.",
+    "flags": [
+      "missing_name",
+      "missing_property"
+    ],
+    "requires_manual_review": true,
+    "email_id": 2
+  },
+  {
+    "enquirer_name": "Daniel O.",
+    "property": "studio on Hartley Road or the one bed on the High Street",
+    "enquiry_type": "availability",
+    "email": "d.osei@workmail.com",
+    "phone": "07911 123456",
+    "enquiry_summary": "Enquiring about availability for either the studio on Hartley Road or the one bed on the High Street. Budget is around 1100 and asks if housing benefit is accepted.",
+    "flags": [],
+    "requires_manual_review": false,
+    "email_id": 3
+  },
+  {
+    "enquirer_name": "Priya N",
+    "property": "apartment",
+    "enquiry_type": "viewing",
+    "email": "priya.nair88@gmail.com",
+    "phone": null,
+    "enquiry_summary": "Interested in the apartment, requests more details and a viewing date.",
+    "flags": [],
+    "requires_manual_review": false,
+    "email_id": 4
+  },
+  {
+    "enquirer_name": "James Carter",
+    "property": "12 Three Oaks Road",
+    "enquiry_type": "availability",
+    "email": "jcarter.property@gmail.com",
+    "phone": "07700 900345",
+    "enquiry_summary": "Check if 12 Three Oaks Road is still available at \u00a32,100 and if it includes a parking space.",
+    "flags": [],
+    "requires_manual_review": false,
+    "email_id": 5
+  }
+]
