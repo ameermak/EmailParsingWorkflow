@@ -2,15 +2,15 @@
 ### A lightweight Python application that uses an LLM to extract structured information from unstructured property enquiry emails.
 ## Features
 ### Extracts:
-#### Enquirer name
-#### Property reference
-#### Enquiry type
-#### Email address
-#### Phone number
+#### - Enquirer name
+#### - Property reference
+#### - Enquiry type
+#### - Email address
+#### - Phone number
 ### Classifies enquiries as:
-#### Viewing
-#### Availability
-#### General Question
+#### - Viewing
+#### - Availability
+#### - General Question
 ### Flags missing information for manual review
 ### Outputs clean JSON suitable for CRM or database ingestion
 ## Installation
